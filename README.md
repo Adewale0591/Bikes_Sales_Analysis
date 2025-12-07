@@ -36,8 +36,7 @@ The purpose of this project is to analyze the sales dataset to uncover key busin
 
 ## Visualization
 
-![Bike Sales Dashboard](https://github.com/user-attachments/assets/a7e4c0b6-0045-468b-991a-3bfa59f7a0b4)
-
+![Bike Sales Dashboard](https://github.com/user-attachments/assets/0bbaf3a2-7896-42eb-9391-13b5609252c1)
 
 ## Insights
 - United States dominates total sales volume.
